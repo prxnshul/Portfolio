@@ -73,6 +73,7 @@ header{
 .top-btn{
 	display: inline-block;
 	padding: 9px 30px;
+	right: 1cm;
 	background: transparent;
 	border: 2px solid var(--main-color);
 	border-radius: 30px;
